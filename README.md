@@ -2,7 +2,7 @@
 
 ## Je suis étudiant en DUT Informatique et développeur Web
 - 🌱 J'apprends de tout actuellement 
-- 🥅 Objectifs 2020: Faire progresser le plus de mes projets perso
+- 🥅 Objectifs 2021: Faire progresser le plus de mes projets perso
 - ⚡ Fun Fact: Je fais du développement depuis l'age de mes 12 ans
 
 ### Mes réseau sociaux :
