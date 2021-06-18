@@ -1,4 +1,4 @@
-### Salut, je m'appele Romain 👋
+### Salut, je m'appelle Romain 👋
 
 ## Je suis étudiant en DUT Informatique et développeur Web
 - 🌱 J'apprends de tout actuellement 
